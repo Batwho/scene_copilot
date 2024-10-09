@@ -11,10 +11,16 @@ if n is not 2:
     exit()
 
 path = sys.argv[1]
+paths = []
+objects = []
 
 # for linux
 for object in os.listdir(path):
-    df.path.append(f'{path}/{object}')
-    df.object.append(object.strip('.py'))
+    paths.append(f'{path}/{object}')
+    objects.append(object.strip('.py'))
+
+addtodf = dict({'object': objects, 'path': paths})
+
+df = pd.DataFrame(addtodf)
 
 df.to_csv(path_or_buf='dataset.csv')
