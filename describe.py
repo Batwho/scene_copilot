@@ -6,6 +6,7 @@ import google.generativeai as genai
 import PIL.Image as pim
 import bpy
 import numpy as np
+from sentence_transformers import SentenceTransformer
 
 def gemini_desc(blenderfile):
     pi = np.pi
@@ -92,13 +93,25 @@ if n != 2:
     exit()
 path = sys.argv[1]
 
+files = []
 desc = []
 embed = []
+embedder = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 # go thru every object in specified directory and get desciption
 for object in os.listdir(path):
-    # render 12 images
-    desc.append(gemini_desc(f'{path}/{object}'))
+
+    # get filename for csv
+    files.append(object)
+
+    # have gemini describe the object
+    description = gemini_desc(f'{path}/{object}')
+    desc.append(description)
+
+    # generate embedding for description
+    embedding = embedder.encode(description)
+    print(str(embedding))
+    embed.append(embedding)
 
     # remove files from model prompt
     for f in genai.list_files():
@@ -108,11 +121,9 @@ print('\n\nResponses')
 for idx, text in enumerate(desc):
     print(f'{idx}: {text}')
 
-# df = pd.DataFrame(columns=['object', 'code', 'desc', 'embed'])
+# create Dataframe
+addtodf = dict({'object': files, 'desc': desc, 'embed': embed}) 
+df = pd.DataFrame(addtodf)
 
-
-# addtodf = dict({'object': objects, 'path': paths})
-
-# df = pd.DataFrame(addtodf)
-
-# df.to_csv(path_or_buf='dataset.csv')
+# write to csv
+df.to_csv(path_or_buf='dataset.csv')
