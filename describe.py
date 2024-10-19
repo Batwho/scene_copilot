@@ -99,7 +99,6 @@ sheet = pd.read_csv('https://docs.google.com/spreadsheets/d/1caVgjqtyttGsF6UIfK-
 names = []
 desc = []
 embed = []
-files = []
 links = []
 embedder = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
@@ -107,9 +106,6 @@ embedder = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 for object in os.listdir(path):
     # get name of object without file extension
     shortname = object[:-6]
-
-    # get filename for csv
-    files.append(object)
 
     # get name for csv
     names.append(shortname)
@@ -134,7 +130,7 @@ for idx, text in enumerate(desc):
     print(f'{idx}: {text}')
 
 # create Dataframe
-addtodf = dict({'name': names, 'file': files, 'desc': desc, 'embed': embed, 'link': links}) 
+addtodf = dict({'name': names, 'desc': desc, 'embed': embed, 'link': links}) 
 df = pd.DataFrame(addtodf)
 
 # write to csv
