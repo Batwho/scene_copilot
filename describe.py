@@ -93,16 +93,28 @@ if n != 2:
     exit()
 path = sys.argv[1]
 
-files = []
+sheet = pd.read_csv('https://docs.google.com/spreadsheets/d/1caVgjqtyttGsF6UIfK-JLGdcFOcKxtstcsQmjWilUnA/export?gid=0&format=csv')
+
+names = []
 desc = []
 embed = []
+files = []
+links = []
 embedder = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 # go thru every object in specified directory and get desciption
 for object in os.listdir(path):
+    # get name of object without file extension
+    shortname = object[:-6]
 
     # get filename for csv
     files.append(object)
+
+    # get name for csv
+    names.append(shortname)
+
+    # get link for file from google sheet
+    links.append(sheet[sheet['name'] == shortname].address)
 
     # have gemini describe the object
     description = gemini_desc(f'{path}/{object}')
@@ -110,7 +122,6 @@ for object in os.listdir(path):
 
     # generate embedding for description
     embedding = embedder.encode(description)
-    print(str(embedding))
     embed.append(embedding)
 
     # remove files from model prompt
@@ -122,7 +133,7 @@ for idx, text in enumerate(desc):
     print(f'{idx}: {text}')
 
 # create Dataframe
-addtodf = dict({'object': files, 'desc': desc, 'embed': embed}) 
+addtodf = dict({'name': names, 'file': files, 'desc': desc, 'embed': embed, 'link': links}) 
 df = pd.DataFrame(addtodf)
 
 # write to csv
