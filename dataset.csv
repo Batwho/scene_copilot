@@ -94,8 +94,7 @@
  -5.09100147e-02 -3.08402274e-02 -3.41046304e-02  6.94933487e-03
  -3.61772790e-03  7.76399523e-02 -6.94707688e-03  6.86790422e-02
  -1.26816416e-02 -4.97161746e-02 -1.35706048e-02  5.76713309e-03
-  8.82106181e-03 -3.74375619e-02  2.82286108e-02  8.68802071e-02]","6    https://www.blenderkit.com/get-blenderkit/abf5...
-Name: address, dtype: object"
+  8.82106181e-03 -3.74375619e-02  2.82286108e-02  8.68802071e-02]",https://www.blenderkit.com/get-blenderkit/abf5cf42-2356-46ec-9d77-c7dedae14528/
 1,bracelet,bracelet.blend,"The model is a small, smooth, circular object.  It may be a ball or a bead. It appears to be made of a shiny, light-colored material like metal or plastic.","[-7.91563615e-02  3.30991554e-03 -2.82925880e-03 -2.63128337e-03
   1.92335974e-02 -3.77631336e-02  6.84671178e-02  2.00750288e-02
   4.70979661e-02  3.01062781e-02 -1.47373723e-02 -1.82685647e-02
@@ -191,8 +190,7 @@ Name: address, dtype: object"
  -4.82960083e-02  1.00950390e-01 -3.15622501e-02  3.17802057e-02
   1.29971588e-02  8.52557644e-03 -1.18569665e-01  1.45967861e-04
   3.64480615e-02 -4.82526310e-02 -1.33340415e-02 -6.76610228e-03
- -1.44207431e-02 -3.58364694e-02  5.32028526e-02  6.21148683e-02]","8    https://www.blenderkit.com/get-blenderkit/5afc...
-Name: address, dtype: object"
+ -1.44207431e-02 -3.58364694e-02  5.32028526e-02  6.21148683e-02]",https://www.blenderkit.com/get-blenderkit/5afc309f-5b97-4933-b50f-e95aea5249c2/
 2,christmas tree with snow,christmas tree with snow.blend,A snow-covered Christmas tree with multicoloured baubles. The tree is relatively tall and thin.,"[ 5.28540611e-02  8.34853277e-02 -5.00680767e-02  3.69986482e-02
  -3.36239766e-03  1.52658615e-02  9.40910447e-03  5.39423190e-02
   2.46124994e-02  3.35553512e-02 -8.13814104e-02 -5.73789962e-02
@@ -288,8 +286,7 @@ Name: address, dtype: object"
   1.66772883e-02  3.37663740e-02 -2.71106437e-02 -2.63396651e-03
  -2.99243126e-02  7.18003884e-02 -3.45844850e-02  3.59025672e-02
  -1.11957137e-02 -2.42668260e-02  4.72214520e-02 -2.92766280e-02
-  4.31811474e-02 -1.12517662e-01 -1.18636843e-02  5.73314391e-02]","16    https://www.blenderkit.com/get-blenderkit/5922...
-Name: address, dtype: object"
+  4.31811474e-02 -1.12517662e-01 -1.18636843e-02  5.73314391e-02]",https://www.blenderkit.com/get-blenderkit/59229910-5136-4dde-a4e3-bf2a158b3c7c/
 3,christmas tree,christmas tree.blend,The model appears to be a stylized Christmas tree with a cluster of lights at its top and a few presents around its base. The presents are a mix of green and orange with stripes.,"[-5.51205762e-02  6.01828955e-02 -8.93239956e-03  1.81265380e-02
   4.60281782e-02  3.33354250e-02 -9.12606809e-03  5.81784965e-03
   5.26288077e-02  3.26134302e-02  2.33745631e-02 -1.21436296e-02
@@ -385,8 +382,7 @@ Name: address, dtype: object"
  -5.20738680e-03  9.41549093e-02 -6.18000105e-02 -4.88454336e-03
  -6.99607283e-02 -7.10363092e-04 -1.25977144e-01 -2.90857293e-02
  -4.88875608e-04 -6.70972914e-02  1.71653591e-02 -1.84730743e-03
-  1.06395721e-01 -6.99722841e-02  1.76995862e-02  7.12078810e-02]","3    https://www.blenderkit.com/get-blenderkit/45f4...
-Name: address, dtype: object"
+  1.06395721e-01 -6.99722841e-02  1.76995862e-02  7.12078810e-02]",https://www.blenderkit.com/get-blenderkit/45f448dc-1cb1-4db4-bd00-2eacc3d97da2/
 4,fairylights,fairylights.blend,"The model is a connected series of spheres forming a string like a chain. The chain can take different shapes, from an extended straight line to a figure-eight.  It is similar to a string of lights but without the connecting wire.  The sphere size is consistent throughout.","[-3.02434694e-02 -9.28336848e-03  5.25614526e-03  1.34662800e-02
  -2.55335364e-02 -1.01511572e-02 -7.36293122e-02  7.52296448e-02
   6.39954209e-02  7.33820954e-03  3.82106937e-02  5.01828454e-02
@@ -482,8 +478,7 @@ Name: address, dtype: object"
  -6.00792132e-02  1.05676711e-01 -6.63954243e-02  7.30432123e-02
  -3.27797886e-03 -4.02412303e-02 -4.56325524e-02 -6.22328855e-02
   7.02518672e-02 -3.06675192e-02 -6.54175133e-02  3.95485811e-04
-  1.20199583e-02 -4.91843596e-02  2.43711695e-02 -3.72046567e-02]","9    https://www.blenderkit.com/get-blenderkit/c24f...
-Name: address, dtype: object"
+  1.20199583e-02 -4.91843596e-02  2.43711695e-02 -3.72046567e-02]",https://www.blenderkit.com/get-blenderkit/c24f31d5-2231-4395-b4f0-4a0775ddd7fb/
 5,Low Poly Rock,Low Poly Rock.blend,"The model is a low-poly 3D rendering of a white, vaguely egg-shaped object with a slightly uneven, bumpy texture.  It looks like a geometric rendition of a rock.","[-5.74633554e-02  2.20916774e-02  5.69104850e-02  4.63704299e-03
  -1.16664628e-02 -3.65987420e-02 -1.27959596e-02  2.46092863e-02
   1.47631476e-02  4.72040055e-03 -6.34655133e-02 -4.83435802e-02
@@ -579,8 +574,7 @@ Name: address, dtype: object"
   2.44244142e-03  6.16195649e-02 -2.33468413e-02  3.86620834e-02
   1.72961652e-02  5.90259954e-02 -1.24450317e-02 -2.44368371e-02
   5.50159365e-02  3.72735114e-04 -4.21145260e-02  4.90388684e-02
-  5.45325279e-02 -1.30513096e-02  2.73687690e-02  5.41433739e-03]","0    https://www.blenderkit.com/get-blenderkit/e0ac...
-Name: address, dtype: object"
+  5.45325279e-02 -1.30513096e-02  2.73687690e-02  5.41433739e-03]",https://www.blenderkit.com/get-blenderkit/e0ac6738-85e9-462f-b61b-675bf56d9db2/
 6,network,network.blend,The model is a 3D rendering of a molecular structure. It consists of a hexagonal lattice of white spheres connected by silver rods. The spheres emit light.,"[-6.83394894e-02 -6.46654367e-02 -1.28332572e-02  3.54724638e-02
   5.87783800e-03 -3.00765336e-02 -3.35017592e-02  3.82887051e-02
   7.00988993e-02  3.64982970e-02 -1.72100011e-02 -1.04107242e-02
@@ -676,8 +670,7 @@ Name: address, dtype: object"
  -4.08216119e-02  8.88949558e-02 -4.28871177e-02  4.42899838e-02
  -5.07728904e-02 -2.02001054e-02 -5.60320355e-02 -7.10223392e-02
   5.44893742e-03 -2.46874653e-02 -2.53448933e-02 -2.02837177e-02
-  6.95951283e-02 -1.61832776e-02 -2.57316679e-02  2.02147104e-03]","7    https://www.blenderkit.com/get-blenderkit/df5b...
-Name: address, dtype: object"
+  6.95951283e-02 -1.61832776e-02 -2.57316679e-02  2.02147104e-03]",https://www.blenderkit.com/get-blenderkit/df5b8a17-5aee-4961-b59c-08cc1c8f47d3/
 7,pine tree,pine tree.blend,"The model is a tall, thin tree with lots of branches and pine needles.  It has a straight trunk and a dense canopy.","[ 5.82765602e-02  1.21303992e-02 -5.91973029e-03  7.92077482e-02
   6.24053441e-02 -1.50837526e-02 -5.39619140e-02  7.42249712e-02
   2.25628056e-02  9.49174911e-02  6.64046360e-03  2.49434169e-03
@@ -773,8 +766,7 @@ Name: address, dtype: object"
   3.00740153e-02  3.54299210e-02  1.18181680e-03 -3.67040024e-03
   2.42207572e-02  3.58430622e-03 -8.76482651e-02 -3.33944224e-02
  -2.42840848e-03 -7.62697533e-02 -7.36730220e-03 -3.01438943e-02
-  9.81581956e-02 -6.93421289e-02  1.58013981e-02  5.06275594e-02]","5    https://www.blenderkit.com/get-blenderkit/697e...
-Name: address, dtype: object"
+  9.81581956e-02 -6.93421289e-02  1.58013981e-02  5.06275594e-02]",https://www.blenderkit.com/get-blenderkit/697e828a-0652-482e-bdde-0891647ae480/
 8,Rock Generator,Rock Generator.blend,"It is a 3D model of a large, irregularly shaped, grey asteroid.","[-7.88511429e-03  4.15042378e-02  7.60224182e-03 -4.67355661e-02
  -4.24539559e-02 -1.12410247e-01 -4.75757942e-02  3.55694704e-02
   8.78784806e-03  4.07502502e-02 -2.29871497e-02 -1.65794920e-02
@@ -870,8 +862,7 @@ Name: address, dtype: object"
  -2.20919400e-03 -1.68255791e-02 -4.09657694e-02  6.41531423e-02
  -5.84260561e-03  3.61061133e-02 -2.75018327e-02  4.06819731e-02
   2.03701146e-02 -4.73131761e-02  3.47833298e-02  1.09686460e-02
-  2.34080665e-02 -3.38488817e-02 -3.35894004e-02  4.83418889e-02]","1    https://www.blenderkit.com/get-blenderkit/147f...
-Name: address, dtype: object"
+  2.34080665e-02 -3.38488817e-02 -3.35894004e-02  4.83418889e-02]",https://www.blenderkit.com/get-blenderkit/147fb822-42eb-4d67-9857-6bd22d54597e/
 9,Small Plant,Small Plant.blend,The 3D model is of a small plant in a pot. It is very basic and simplistic with a simple green stem and two leaves. The pot is white.,"[-4.30625901e-02 -1.22251250e-02 -4.26549837e-02 -1.12787150e-02
  -8.23110749e-04 -6.59744488e-04 -8.12096149e-02 -3.07378615e-03
   6.80029243e-02  3.85653600e-02  6.93541160e-03 -4.48108315e-02
@@ -967,8 +958,7 @@ Name: address, dtype: object"
  -3.49022895e-02  4.21880446e-02 -1.18026808e-02  2.52577141e-02
  -1.68187238e-04  2.18831468e-02 -2.29307227e-02  1.86562426e-02
   1.41933672e-02 -9.93913971e-03 -5.22569902e-02 -2.88720988e-02
- -9.80481599e-03  1.38328997e-02  5.64836897e-02  5.01908846e-02]","2    https://www.blenderkit.com/get-blenderkit/44e1...
-Name: address, dtype: object"
+ -9.80481599e-03  1.38328997e-02  5.64836897e-02  5.01908846e-02]",https://www.blenderkit.com/get-blenderkit/44e1c989-86a0-4dea-8d78-7e9fd02d4235/
 10,tree,tree.blend,"The model is of a large tree. The tree has a thick trunk and a dense canopy of leaves. The trunk is gnarled and textured, with a rough bark. The leaves are a light green colour and are clustered together in dense bunches.  The tree appears to be very old, with many years of growth visible on the bark.  The tree seems to have many branches and is positioned above the viewer's perspective, as the branches are all at the top of the image.","[ 2.16788910e-02  3.03489678e-02  5.55234915e-03  4.12928499e-02
   7.95814544e-02 -4.25797328e-02 -4.75477092e-02  2.01768689e-02
   6.84255809e-02  4.91209179e-02  2.45134793e-02 -1.53917512e-02
@@ -1064,8 +1054,7 @@ Name: address, dtype: object"
   1.16703827e-02  5.25181480e-02  1.83534250e-02  1.86359696e-02
   8.42719991e-03  3.78374532e-02 -8.36258829e-02 -6.40023053e-02
   1.74548496e-02 -3.91308479e-02  1.72950746e-03  1.29277939e-02
-  1.07832395e-01 -4.51415107e-02  2.54180189e-02  4.59705442e-02]","12    https://www.blenderkit.com/get-blenderkit/0ed7...
-Name: address, dtype: object"
+  1.07832395e-01 -4.51415107e-02  2.54180189e-02  4.59705442e-02]",https://www.blenderkit.com/get-blenderkit/0ed7ff81-715c-42bf-b799-a9e650cb5c98/
 11,tree2,tree2.blend,"The model appears to be a 3D rendering of a stylized tree with a thick, gnarled trunk and several branches that extend upwards. The leaves are simple and green. The base of the trunk has a smooth, rounded surface.","[-4.99677584e-02 -2.27132812e-02  1.62838958e-02  1.76715199e-02
   1.62907280e-02 -7.14919493e-02 -5.22174723e-02  3.15325409e-02
   5.04031591e-02  5.67484125e-02  4.70785005e-03 -1.64219514e-02
@@ -1161,8 +1150,7 @@ Name: address, dtype: object"
   1.74982566e-02  8.16070959e-02 -4.66960631e-02 -1.43051404e-03
  -1.25721758e-02  5.94875999e-02 -5.32818437e-02 -2.95735244e-02
   1.47378054e-02 -3.35114151e-02 -2.50974558e-02 -1.17667369e-03
-  8.35897550e-02 -5.63917570e-02  4.94685061e-02  5.22912480e-02]","13    https://www.blenderkit.com/get-blenderkit/b94e...
-Name: address, dtype: object"
+  8.35897550e-02 -5.63917570e-02  4.94685061e-02  5.22912480e-02]",https://www.blenderkit.com/get-blenderkit/b94e8da6-7e01-4b80-b355-7d6fd9ab148f/
 12,tree3,tree3.blend,"The model is a tree with green leaves and thick, twisting roots. The tree seems to have several trunks.  The roots spread out around the base and appear to be partially buried in the ground. The tree is quite detailed and realistic.","[-6.23731464e-02 -1.54750177e-03  2.44485233e-02  1.70194097e-02
   3.05483099e-02 -8.48823786e-02 -1.08165562e-01  7.74772167e-02
   5.72428592e-02  5.77764846e-02  3.77384312e-02 -3.53364311e-02
@@ -1258,8 +1246,7 @@ Name: address, dtype: object"
   5.64230904e-02  3.55587527e-02 -1.06286816e-02 -6.61068596e-04
  -1.22218709e-02  2.95961648e-02 -4.67939638e-02 -4.07651719e-03
  -3.22171231e-03 -4.98502105e-02 -1.89846363e-02  7.61152070e-04
-  3.61901931e-02 -2.93783993e-02  3.55232656e-02  6.71149939e-02]","14    https://www.blenderkit.com/get-blenderkit/c22f...
-Name: address, dtype: object"
+  3.61901931e-02 -2.93783993e-02  3.55232656e-02  6.71149939e-02]",https://www.blenderkit.com/get-blenderkit/c22fddd6-ce81-449d-a32a-ed62238a97d5/
 13,volcano island,volcano island.blend,The model is of a volcano that is erupting. There is molten lava flowing and the top of the volcano is partially visible as a glowing orb.,"[-4.21727858e-02 -9.76306107e-03  4.77199852e-02  5.46673350e-02
   4.12912183e-02 -2.85681337e-02 -7.09713027e-02  3.97956669e-02
   6.63649812e-02 -2.28787158e-02  7.99880773e-02 -3.04775462e-02
@@ -1355,8 +1342,7 @@ Name: address, dtype: object"
   2.41955016e-02  1.03942163e-01 -1.66558586e-02 -2.66689546e-02
   3.17417667e-03 -2.34784912e-02 -6.15467615e-02 -5.39694466e-02
   9.50073898e-02  2.63207611e-02 -2.20192578e-02  2.91449726e-02
-  9.23743472e-02 -2.14930177e-02  6.58673467e-03 -5.39733749e-03]","4    https://www.blenderkit.com/get-blenderkit/dc1f...
-Name: address, dtype: object"
+  9.23743472e-02 -2.14930177e-02  6.58673467e-03 -5.39733749e-03]",https://www.blenderkit.com/get-blenderkit/dc1fd2d3-b264-4a43-a1da-56374f8f178f/
 14,windsock,windsock.blend,"The model is a simple windsock, a cone shaped fabric tube with red and white stripes.","[-2.21461412e-02  2.70847175e-02 -3.99478003e-02  5.20071760e-02
   2.82903761e-02  1.54453767e-02 -1.90678034e-02  8.85057747e-02
   4.78516929e-02 -4.13128268e-03 -2.41111312e-02  3.54518779e-02
@@ -1452,8 +1438,7 @@ Name: address, dtype: object"
  -6.75682873e-02  9.28639667e-04  5.65672889e-02  3.33595052e-02
   9.00904611e-02  1.38255842e-02 -9.99910161e-02  4.91828285e-02
  -2.08323132e-02 -3.42851728e-02 -2.33330131e-02 -4.41449173e-02
- -7.12308884e-02  4.49223742e-02  3.81324776e-02  1.35687953e-02]","15    https://www.blenderkit.com/get-blenderkit/1fad...
-Name: address, dtype: object"
+ -7.12308884e-02  4.49223742e-02  3.81324776e-02  1.35687953e-02]",https://www.blenderkit.com/get-blenderkit/1fad22a7-ff8d-4e6d-996a-eb200b2a5267/
 15,wooden pallet,wooden pallet.blend,The model is a stack of wooden pallets. It appears to be a standard size pallet and there are about 4 or 5 pallets stacked on top of each other. There is no visible texture on the pallet.,"[ 1.14010833e-02 -3.67122293e-02 -3.39106214e-03 -2.62620896e-02
  -7.08980951e-03 -2.10677162e-02 -8.20425618e-03  3.84853110e-02
   3.77785638e-02  1.05754286e-02 -2.78004780e-02 -4.93641719e-02
@@ -1549,8 +1534,7 @@ Name: address, dtype: object"
  -1.42551698e-02 -9.79011785e-03 -7.80351600e-03  5.40659204e-02
   1.71566173e-03  7.30388761e-02 -6.07399978e-02 -3.07947602e-02
  -5.72956018e-02  1.21843554e-02  8.99776593e-02  2.83438410e-03
- -5.20771742e-03 -3.71432677e-02  1.84969157e-02 -2.29266249e-02]","10    https://www.blenderkit.com/get-blenderkit/bf34...
-Name: address, dtype: object"
+ -5.20771742e-03 -3.71432677e-02  1.84969157e-02 -2.29266249e-02]",https://www.blenderkit.com/get-blenderkit/bf3415c7-ed10-4708-aa8b-2e49943b1353/
 16,wooden wall panel,wooden wall panel.blend,The model is a set of wooden slats that form a grid pattern.  They are arranged in parallel lines.,"[-2.91788429e-02  3.23388012e-05 -4.09190692e-02  2.41428800e-03
  -2.59299986e-02  2.37588771e-02 -8.98290202e-02  2.41357982e-02
   3.95439528e-02  4.41148207e-02 -2.01438330e-02  3.80343720e-02
@@ -1646,5 +1630,4 @@ Name: address, dtype: object"
  -2.71958373e-02  3.11955158e-02 -2.49344688e-02  1.18678249e-02
   4.75275405e-02  3.63799445e-02 -6.35369569e-02 -4.98778298e-02
  -4.87004966e-03 -9.03336927e-02  7.81633928e-02 -6.42015934e-02
-  3.04478724e-02 -5.09388112e-02 -2.53854860e-02  2.70336401e-02]","11    https://www.blenderkit.com/get-blenderkit/c8bf...
-Name: address, dtype: object"
+  3.04478724e-02 -5.09388112e-02 -2.53854860e-02  2.70336401e-02]",https://www.blenderkit.com/get-blenderkit/c8bfc9ff-7e61-42bf-ab90-9a6a86194205/
