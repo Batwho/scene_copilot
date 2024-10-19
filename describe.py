@@ -93,6 +93,7 @@ if n != 2:
     exit()
 path = sys.argv[1]
 
+pd.set_option('display.max_colwidth', None) 
 sheet = pd.read_csv('https://docs.google.com/spreadsheets/d/1caVgjqtyttGsF6UIfK-JLGdcFOcKxtstcsQmjWilUnA/export?gid=0&format=csv')
 
 names = []
