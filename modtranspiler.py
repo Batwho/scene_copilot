@@ -60,6 +60,6 @@ elif mode == "write_file":
     filename = filename + '.py'
     print(f"Writing generated script to {filename}")
     with Path(filename).open("w") as f:
-        f.write(res)
+        f.write(res + "\napply(bpy.context.active_object)")
 else:
     raise ValueError(f"Unrecognized {mode=}")
