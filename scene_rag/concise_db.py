@@ -75,7 +75,7 @@ def main():
         model = ChatOpenAI(model_name="gpt-4o-mini-2024-07-18",openai_api_key='OPENAI_KEY')
           #gpt-4o-mini, gpt-3.5-turbo-0125 gpt-4o-2024-08-06,gpt-4o-mini-2024-07-18
    
-    file = "/home/zqian/codellama/scene_rag/processed_snake.txt"
+    file = "/processed_snake.txt"
 
     embedder = utils_rag.Embedder(file)
 
@@ -362,7 +362,6 @@ def main():
     # condense_db = FAISS.from_documents(condense_texts, embedding= embedder.hf)
     db2 = Chroma.from_documents(condense_texts, embedder.hf, persist_directory="./fixed_chroma_db_desert_snake")
 
-    # condense_db.save_local("/home/zqian/codellama/scene_rag/fixed_faiss_index_per_def")
     # print("Saved chroma concise_faiss_index")
     #create vector store space for name only db
     name_db = Chroma(collection_name="full_documents", embedding_function=embedder.hf,persist_directory="./fixed_chroma_name_db_desert_snake")
