@@ -12,7 +12,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import DeepLake
 from langchain_community.vectorstores import FAISS 
 from langchain_community.embeddings import HuggingFaceEmbeddings
-model_name = "/home/zqian/codellama/chat-with-code/sentence_trans"#"sentence-transformers/all-MiniLM-L6-v2"
+model_name = "sentence-transformers/all-MiniLM-L6-v2"#
 model_kwargs = {"device": "cuda"}
 # openaimodel = "gpt-3.5-turbo-0125" #"gpt-4o-mini-2024-07-18" gpt-4o-2024-08-06
 allowed_extensions = ['.py', '.ipynb', '.md']
@@ -33,7 +33,6 @@ class Embedder:
         # self.git_link = git_link
         # last_name = self.git_link.split('/')[-1]
         # self.clone_path = last_name.split('.')[0]
-        # self.deeplake_path = "/home/zqian/codellama/db"
         # self.model = localllm.create_localllm(model_id="meta-llama/Meta-Llama-3.1-8B-Instruct")#ChatOpenAI(model_name=openaimodel)  # switch to 'gpt-4'
         self.hf = HuggingFaceEmbeddings(model_name=model_name)
         self.file_path = path
