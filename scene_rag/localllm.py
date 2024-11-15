@@ -25,7 +25,7 @@ def create_localllm(model_id):
     # hf_auth = "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"
     # model_config = transformers.AutoConfig.from_pretrained(
     #     model_id,
-    #     use_auth_token=hf_auth ###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
+    #     use_auth_token=hf_auth #
     # )
 
     # model = transformers.AutoModelForCausalLM.from_pretrained(
